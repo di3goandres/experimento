@@ -22,3 +22,4 @@ D:\02_Proyectos\10_ProyectoExperimento\Modelo\Entity\util\AccesControl\bin\Debug
 D:\02_Proyectos\10_ProyectoExperimento\Modelo\Entity\util\AccesControl\bin\Debug\Uniandes.Utilidades.pdb
 D:\02_Proyectos\10_ProyectoExperimento\Modelo\Entity\util\AccesControl\obj\Debug\Uniandes.Utilidades.dll
 D:\02_Proyectos\10_ProyectoExperimento\Modelo\Entity\util\AccesControl\obj\Debug\Uniandes.Utilidades.pdb
+D:\02_Proyectos\10_ProyectoExperimento\Modelo\Entity\util\AccesControl\obj\Debug\AccesControl.csprojResolveAssemblyReference.cache
