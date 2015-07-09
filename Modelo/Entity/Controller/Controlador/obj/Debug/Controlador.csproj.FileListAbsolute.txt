@@ -1,0 +1,8 @@
+D:\02_Proyectos\10_ProyectoExperimento\Modelo\Entity\Controller\Controlador\bin\Debug\Uniandes.Utilidades.dll
+D:\02_Proyectos\10_ProyectoExperimento\Modelo\Entity\Controller\Controlador\bin\Debug\log4net.dll
+D:\02_Proyectos\10_ProyectoExperimento\Modelo\Entity\Controller\Controlador\bin\Debug\Uniandes.Controlador.dll
+D:\02_Proyectos\10_ProyectoExperimento\Modelo\Entity\Controller\Controlador\bin\Debug\Uniandes.Controlador.pdb
+D:\02_Proyectos\10_ProyectoExperimento\Modelo\Entity\Controller\Controlador\bin\Debug\Uniandes.Entity.dll
+D:\02_Proyectos\10_ProyectoExperimento\Modelo\Entity\Controller\Controlador\obj\Debug\Uniandes.Controlador.dll
+D:\02_Proyectos\10_ProyectoExperimento\Modelo\Entity\Controller\Controlador\obj\Debug\Uniandes.Controlador.pdb
+D:\02_Proyectos\10_ProyectoExperimento\Modelo\Entity\Controller\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache

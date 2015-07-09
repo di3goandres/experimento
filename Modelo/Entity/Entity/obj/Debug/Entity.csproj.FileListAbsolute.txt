@@ -1,0 +1,4 @@
+D:\02_Proyectos\10_ProyectoExperimento\Modelo\Entity\Entity\bin\Debug\Uniandes.Entity.dll
+D:\02_Proyectos\10_ProyectoExperimento\Modelo\Entity\Entity\bin\Debug\Uniandes.Entity.pdb
+D:\02_Proyectos\10_ProyectoExperimento\Modelo\Entity\Entity\obj\Debug\Uniandes.Entity.dll
+D:\02_Proyectos\10_ProyectoExperimento\Modelo\Entity\Entity\obj\Debug\Uniandes.Entity.pdb

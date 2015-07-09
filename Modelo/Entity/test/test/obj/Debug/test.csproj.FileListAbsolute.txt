@@ -1,0 +1,10 @@
+D:\02_Proyectos\10_ProyectoExperimento\Modelo\Entity\test\test\bin\Debug\test.exe.config
+D:\02_Proyectos\10_ProyectoExperimento\Modelo\Entity\test\test\bin\Debug\test.exe
+D:\02_Proyectos\10_ProyectoExperimento\Modelo\Entity\test\test\bin\Debug\test.pdb
+D:\02_Proyectos\10_ProyectoExperimento\Modelo\Entity\test\test\bin\Debug\Uniandes.Controlador.dll
+D:\02_Proyectos\10_ProyectoExperimento\Modelo\Entity\test\test\bin\Debug\Uniandes.Entity.dll
+D:\02_Proyectos\10_ProyectoExperimento\Modelo\Entity\test\test\bin\Debug\Uniandes.Utilidades.dll
+D:\02_Proyectos\10_ProyectoExperimento\Modelo\Entity\test\test\bin\Debug\log4net.dll
+D:\02_Proyectos\10_ProyectoExperimento\Modelo\Entity\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\02_Proyectos\10_ProyectoExperimento\Modelo\Entity\test\test\obj\Debug\test.exe
+D:\02_Proyectos\10_ProyectoExperimento\Modelo\Entity\test\test\obj\Debug\test.pdb
