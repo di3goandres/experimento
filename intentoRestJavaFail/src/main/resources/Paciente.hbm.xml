@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+ "-//Hibernate/Hibernate Mapping DTD//EN"
+ "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd"> 
+
+<hibernate-mapping>
+	<typedef 
+		name="genero" 
+		class="edu.uniandes.ecos.arquisoft.persistence.GeneroUserType">
+	</typedef>
+	<typedef 
+		name="tipoId" 
+		class="edu.uniandes.ecos.arquisoft.persistence.TipoIdUserType">
+	</typedef>
+	<class 
+		name="edu.uniandes.ecos.arquisoft.model.Paciente"
+		table="tbl_pacientes">
+		
+		<id name="idPaciente" type="int" column="id_paciente">
+			<generator class="native" />
+		</id>
+		<property name="nombresPaciente" column="nombres_paciente" type="string" />
+		<property name="apellidosPaciente" column="apellidos_paciente" type="string" />
+		<property name="docIdentificacion" column="ident_paciente" type="long" />
+		<property name="fechaNacimiento" column="fecha_nacimiento" type="date" />
+		<property name="direccionResidencia" column="direccion_paciente" type="string" />
+		<property name="telefonoFijo" column="telefono_paciente" type="string" />
+		<property name="telefonoMovil" column="movil_paciente" type="string" />
+		<property name="fechaRegistro" column="fecha_registro" type="timestamp" />
+		<property name="generoPaciente" column="genero_paciente" type="genero" />
+		<property name="tipoIdPaciente" column="tipo_id" type="tipoId" />
+	</class>
+</hibernate-mapping>

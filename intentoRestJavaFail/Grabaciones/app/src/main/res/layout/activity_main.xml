@@ -1,0 +1,87 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:weightSum="1">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/title"
+            android:id="@+id/textView"
+            android:gravity="center_vertical|center_horizontal" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Enviar Grabación"
+                android:id="@+id/buttonEnviar"
+                android:layout_gravity="bottom"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentStart="true"
+                android:onClick="enviar" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Reproducir"
+                android:id="@+id/buttonReproducir"
+                android:layout_gravity="center_horizontal"
+                android:layout_above="@+id/buttonEnviar"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="152dp"
+                android:onClick="reproducir" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Detener"
+                android:id="@+id/buttonDetener"
+                android:layout_gravity="center_horizontal"
+                android:layout_above="@+id/buttonReproducir"
+                android:layout_alignEnd="@+id/buttonReproducir"
+                android:layout_alignStart="@+id/buttonReproducir"
+                android:onClick="detener" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Grabar"
+                android:id="@+id/buttonGrabar"
+                android:layout_gravity="center_horizontal"
+                android:layout_above="@+id/buttonDetener"
+                android:layout_alignEnd="@+id/buttonDetener"
+                android:layout_alignStart="@+id/buttonDetener"
+                android:onClick="grabar" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Estado"
+                android:id="@+id/textViewEstado"
+                android:layout_above="@+id/buttonGrabar"
+                android:layout_alignParentStart="true"
+                android:layout_marginBottom="55dp"
+                android:layout_alignParentEnd="true"
+                android:textColor="#ffff3f5a"
+                android:layout_alignWithParentIfMissing="false"
+                android:gravity="center" />
+        </RelativeLayout>
+
+    </LinearLayout>
+</RelativeLayout>

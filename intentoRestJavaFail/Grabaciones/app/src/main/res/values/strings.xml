@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Grabaciones</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title">Grabaciones</string>
+    <string name="action_settings">Settings</string>
+</resources>

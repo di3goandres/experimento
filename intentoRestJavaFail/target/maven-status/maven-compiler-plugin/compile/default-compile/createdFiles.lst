@@ -1,0 +1,13 @@
+edu/uniandes/ecos/arquisoft/view/ConsoleView.class
+edu/uniandes/ecos/arquisoft/persistence/PersistentEnumUserType.class
+edu/uniandes/ecos/arquisoft/persistence/HibernateDBManager.class
+edu/uniandes/ecos/arquisoft/model/Paciente.class
+edu/uniandes/ecos/arquisoft/persistence/PacienteDAO.class
+edu/uniandes/ecos/arquisoft/model/TipoIdentificacion.class
+edu/uniandes/ecos/arquisoft/persistence/TipoIdUserType.class
+edu/uniandes/ecos/arquisoft/persistence/PersistentEnum.class
+edu/uniandes/ecos/arquisoft/persistence/GeneroUserType.class
+edu/uniandes/ecos/arquisoft/service/GestionPacientes.class
+edu/uniandes/ecos/arquisoft/persistence/IPacienteDAO.class
+edu/uniandes/ecos/arquisoft/model/Genero.class
+edu/uniandes/ecos/arquisoft/controller/ControladorRestPaciente.class
